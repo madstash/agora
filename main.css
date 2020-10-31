@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(136, 235, 200);
+}
+
+.main-body{
+    width: 50%;
+    padding: 8% 0 0;
+    margin: auto;
+
+
+}
+
+.logo{
+    width: 40%;
+    display: block;
+    margin: auto;
+}
+
+.vertical-center{
+    position: relative;
+    z-index: 1;
+    background-color: white;
+    max-width: 50%;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+
+}
+
+.placeholder{
+    width: 70%;
+    padding: 20px 20px;
+    margin: auto;
+}
+
+.submit_btn {
+    margin: 25px 25px;
+    width: 70%;
+    background-color: rgb(106, 205, 174);
+    text-decoration-color: seashell;
+    border: 0;
+    padding: 10px 20px 10px 20px;
+    border-radius: 15px;
+
+
+}
